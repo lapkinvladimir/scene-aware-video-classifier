@@ -79,23 +79,6 @@ pip install -r requirements.txt
 python scripts/main.py
 ```
 
----
-
-## 📽️ Demo
-
-![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3VidnZncXphZ3ZjMGs1ZTNzZGltM2w2b2k5YmVnOW5rZW5hd2o3MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jUwpNzg9IcyrK/giphy.gif)
-
-_(replace with your own GIF later 😎)_
-
----
-
-## 🧑‍💻 Author
-
-**Volodymyr Lapkin**  
-[GitHub](https://github.com/YOUR_USERNAME) • [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
-
----
-
 ## 🧠 Inspiration
 
 Built out of a pure obsession with making machines **understand scenes**, not just boxes.
